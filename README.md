@@ -7,7 +7,7 @@
 # Guilherme Sversut
 <sub>*Engenheiro da Computação* formado pela UNAERP</sub>
 
-Fomardo em Engenharia da Computação pela Universidade de Ribeirão Preto, atualmente possuo um e-commerce na área para cama, mesa e banho. Através do conhecimento em Data Science procuro melhorar ainda mais os investimentos da empresa relacionados a marketing. Além de me interessar bastante pela área e ter muita curiosidade sobre a mesma.
+Formado em Engenharia da Computação pela Universidade de Ribeirão Preto, atualmente possuo um e-commerce na área para cama, mesa e banho. Através do conhecimento em Data Science procuro melhorar ainda mais os investimentos da empresa relacionados a marketing. Além de me interessar bastante pela área e ter muita curiosidade sobre a mesma.
 
 Possuo bastante familiaridade com programação por conta do meu curso, mas onde mais me aprofundei foi em meu estágio na Fundação Hospital Santa Lydia, onde me especializei em desenvolvimento Full Stack. Tenho muito o que agradecer em relação ao meu estágio, conheci ótimos profissionais que me ensinaram muito e além disto foram e sempre serão ótimos amigos.
 
