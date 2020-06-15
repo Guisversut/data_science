@@ -22,7 +22,7 @@ A partir deste ponto pretendo me especializar em Data Science, aplicando este te
 
 
 ## Projetos:
-
+* [Analisando os dados do Airbnb](https://github.com/Guisversut/data_science/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
 
 ---
 
